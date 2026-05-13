@@ -1,7 +1,2 @@
-iniconfig==2.3.0
-packaging==26.2
+numpy==2.2.5
 pillow==12.2.0
-pluggy==1.6.0
-pybind11==3.0.4
-Pygments==2.20.0
-pytest==9.0.3
