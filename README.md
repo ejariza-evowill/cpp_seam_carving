@@ -96,9 +96,9 @@ The function validates that:
 ## Benchmarking
 I ran the seam carving on a regular laptop (My computer), removing a single vertical seam, and got the following results:
 
-image_small.png: 0.1692s
-image_medium.png: 2.5191s
-image_large.png: 11.0797s
+- image_small.png: 0.1692s
+- image_medium.png: 2.5191s
+- image_large.png: 11.0797s
 
 You can expect the time to grow linearly with the number of pixels or seams removed (ten seams in image_medium.png would take about 25 seconds and so on). 
 
